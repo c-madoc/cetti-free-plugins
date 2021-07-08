@@ -1,1 +1,5 @@
-# cetti-free-plugins
+# Cetti's Free Plugins
+
+Includes:
+- Tutorial Island
+-  -
