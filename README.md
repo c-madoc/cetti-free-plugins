@@ -1,5 +1,10 @@
 # Cetti's Free Plugins
 
-Includes:
-- Tutorial Island
--  -
+# Tutorial Island:
+Supports:
+- Custom name
+- Custom Appearance
+- Start as Female
+- Select Ironman modes (Standard / Hardcore / Ultimate)
+  - Required bank pin 
+- Run to Grand Exchange on completion
