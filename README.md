@@ -1,6 +1,6 @@
 # Cetti's Free Plugins
 
-# Tutorial Island:
+### Tutorial Island:
 Supports:
 - Custom name
 - Custom Appearance
